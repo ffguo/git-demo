@@ -1,5 +1,5 @@
 # git命令练习和git笔记
-> 为了便于以后巩固复习git命令
+> 为了便于以后巩固复习git命令的
 
 ## git配置
 $ git config --global user.name "Your Name"  
